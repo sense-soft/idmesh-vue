@@ -15,8 +15,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "idmesh-spa-js": "^0.9.0",
-    "vue": "^3.0.0"
+    "idmesh-spa-js": ">=0.9.0",
+    "vue": ">=3.0.0"
   },
   "devDependencies": {
     "@rollup/browser": "^3.20.2",
@@ -31,6 +31,6 @@
     "typescript": "^4.7.4"
   },
   "peerDependencies": {
-    "vue-router": "^4.0.0"
+    "vue-router": ">=4.0.0"
   }
 }
