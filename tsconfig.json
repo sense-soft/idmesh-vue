@@ -13,7 +13,8 @@
     "strictFunctionTypes": true,
     "sourceMap": true,
     "target": "ES6",
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "lib": ["es6", "dom"],
   },
   "include": [
     "src/**/*"
