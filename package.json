@@ -1,7 +1,7 @@
 {
   "name": "idmesh-vue",
   "version": "0.9.1",
-  "description": "IDMesh client wrapped for Vue 3",
+  "description": "IDMesh sdk wrapped for Vue 3",
   "main": "dist/idmesh-vue.cjs.js",
   "module": "dist/idmesh-vue.esm.js",
   "types": "dist/typings/index.d.ts",
