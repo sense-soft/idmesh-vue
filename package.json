@@ -9,11 +9,12 @@
   "scripts": {
     "build": "rimraf dist && tsc --emitDeclarationOnly && rollup -c"
   },
+  "author": "sense-soft",
+  "homepage": "https://github.com/sense-soft/idmesh-vue",
   "repository": {
     "type": "git",
-    "url": "git@codeup.aliyun.com:idmesh/sdk/idmesh-vue.git"
+    "url": "git@github.com:sense-soft/idmesh-vue.git"
   },
-  "author": "idmesh",
   "license": "ISC",
   "dependencies": {
     "idmesh-spa-js": ">=0.9.1"
