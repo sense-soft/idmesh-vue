@@ -1,7 +1,7 @@
 import { inject } from 'vue';
 import { IDMESH_INJECT_KEY, IDMESH_TOKEN } from "./consts";
 import { IDMeshPluginOptions, IDMeshVueClient, IDMeshVueClientOptions } from './interface';
-import { IDMeshPlugin } from './Plugin';
+import { IDMeshPlugin } from './plugin';
 import { deprecateRedirectUri } from './utils';
 
 export * from './global';
